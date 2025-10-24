@@ -1,6 +1,6 @@
 # SpAtten — README
 
-## TL;DR
+**TL;DR**
 ### SpAtten — Speculative Lookahead for Attention (Python + Verilog)
 - **What:** Cycle-aware Monte-Carlo simulator + verification Verilog for speculative lookahead token pruning in Transformer attention layers.
 - **Key result:** *Mean 69.39% reduction in total cycles* (Baseline → Pipelined lookahead) under the optimistic CV-demo parameters (P=R=0.995, 12 layers, 512 tokens, 1024 Gb/s BW).  
