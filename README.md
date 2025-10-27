@@ -157,6 +157,9 @@ Under the chosen optimistic hardware and predictor settings, the lookahead pipel
 
 ## Authorship
 
-Project: SpAtten - LookAhead
-Author: Kush Kapoor, as a research intern under Dr. Rohit Chaurasia at Indian Institute of Technology Jammu
+**Project:** SpAtten - LookAhead
+
+**Author:** Kush Kapoor
+
+As a research intern under **Dr. Rohit Chaurasia** at **Indian Institute of Technology Jammu**
 
