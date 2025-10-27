@@ -260,7 +260,7 @@ All plots saved. Finished.
 
 ### B. Reproducibility checklist
 
-* Ensure `main_sim.py` `CONFIG` is unchanged from the values listed in §2.
+* Ensure `main_sim.py` `CONFIG` is unchanged and is in the same folder
 * Run the Python script with the same `random_seed` to reproduce identical Monte Carlo draws.
 * To compare Verilog vs Python outputs, produce per-layer traces (start/end times) in Python and have the Verilog testbench print the same trace; run comparisons (diff or script) to verify numeric parity.
 
