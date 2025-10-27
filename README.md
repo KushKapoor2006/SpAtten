@@ -155,10 +155,8 @@ Under the chosen optimistic hardware and predictor settings, the lookahead pipel
 
 ---
 
-## Contact / authorship
+## Authorship
 
-Project: SpAtten
-Author: (replace with your name / handle)
+Project: SpAtten - LookAhead
+Author: Kush Kapoor, as a research intern under Dr. Rohit Chaurasia at Indian Institute of Technology Jammu
 
-
-Say `generate EVALUATION.md` and I will create it in the canvas.
