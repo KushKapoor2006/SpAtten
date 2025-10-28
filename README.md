@@ -15,8 +15,7 @@ This repository contains:
 
 * `simulation/main_sim.py` — Python Monte Carlo simulator that models baseline and pipelined behavior, generates Gantt charts, histograms, and a precision/recall sweep.
 * `simulation/results/` — Generated figures from the simulator (Gantt, histograms, contour, speedup plot, etc.).
-* `hardware/` — Verilog verification RTL (module.v, tb.v) implementing the simulator math for cycle-based validation (not synthesizable out-of-the-box).
-* `AttentionArchitecture.pdf` — Reference architecture and notes (user-supplied).
+* `hardware/` — Verilog verification RTL (module.v, tb.v) implementing the simulator math for cycle-based validation.
 
 This README documents the configuration that produced the **~69.4%** mean speedup observed for the optimistic CV-demo configuration and explains how to reproduce and interpret the outputs.
 
