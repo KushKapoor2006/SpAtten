@@ -36,11 +36,10 @@ SPATTEN/
 │     ├─ pr_sweep_contour_CV_DEMO.png
 │     ├─ speedup_hist_P0.995_R0.995_CV_DEMO.png
 │     └─ wasted_hist_P0.995_R0.995_CV_DEMO.png
-└─ AttentionArchitecture.pdf
+└─ SpAtten_OrignalPaper.pdf
 ```
 
 
-> If your tree differs slightly, use the `CONFIG['simulation']['save_path']` in `main_sim.py` to point outputs to the `simulation/results/` directory shown above.
 
 ---
 
