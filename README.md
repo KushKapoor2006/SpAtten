@@ -159,5 +159,3 @@ Under the chosen optimistic hardware and predictor settings, the lookahead pipel
 
 **Author:** Kush Kapoor
 
-Artifacts as part of summer research under **Prof Dr. Rohit Chaurasia** at **Indian Institute of Technology Jammu**
-
